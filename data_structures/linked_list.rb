@@ -22,7 +22,11 @@ module DataStructures
     end
 
     def remove(value)
-      puts "todo"
+      prev = nil
+      current = @head
+      until current == nil do
+        if (current 
+      end
     end
 
     def get(value)

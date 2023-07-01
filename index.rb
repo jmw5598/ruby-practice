@@ -2,7 +2,7 @@ require_relative "data_structures/linked_list"
 require_relative "data_structures/stack"
 require_relative "data_structures/queue"
 
-include DataStructures
+# include DataStructures
 
 # Stacks
 puts "\nSTACK\n"
